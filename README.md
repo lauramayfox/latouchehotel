@@ -1,6 +1,6 @@
 <h1 align="center"><img src=""/></h1>
 
-# La Touche Hotel History
+# La Touche History
 
 This project is intended for those who wish to look back on the history of the
 La Touche Hotel, Greystones, Co. Wicklow est. in the 1900s. I hope to provide a
