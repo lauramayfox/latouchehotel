@@ -1,0 +1,64 @@
+/* Google fonts import */
+@import url(<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" 
+crossorigin><link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Playfair+Display:wght@400;600&display=swap" rel="stylesheet">);
+
+
+h1,
+h2,
+h3 {
+    font-family: 'preconnect', sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: #FFE599;
+
+}
+
+/* Header */
+header {
+    background-color: #3a3a3a;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+
+#menu {
+    font-size: 90%%;
+    letter-spacing: 4px;
+    list-style-type: none;
+    
+
+    ul {
+            list-style: none;
+        }
+    
+        li {
+            display: inline-block;
+            margin-right: 10px;
+            /* add spacing between items */
+        }
+}
+
+/* Main content */
+main {
+    /* Enlarge main element to push footer down*/
+    flex: 1 0 auto;
+    /* Add margin at the top to prevent content from being covered by the header */
+    margin-top: 47px;
+    /* Enable flex properties for child elements */
+    display: flex;
+    flex-direction: column;
+}
+
+/* Hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("/assets/images/latouche70s.jpeg") no-repeat center center/cover;
+    position: fixed;
+}
