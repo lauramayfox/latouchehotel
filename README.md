@@ -34,5 +34,7 @@ CSS
 
 The icons in the footer were taken from Font Awesome
 
+Favicon Icon by Prashanth Rapolu 15 (freepiks.com)
+
 # Media
 The photos used on the home and contact page are from
