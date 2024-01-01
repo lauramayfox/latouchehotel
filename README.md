@@ -36,5 +36,7 @@ The icons in the footer were taken from Font Awesome
 
 Favicon Icon by Prashanth Rapolu 15 (freepiks.com)
 
+Some code used from "Love Running" project and altered to suit the needs of this project
+
 # Media
-The photos used on the home and contact page are from
+The photos used on the home and contact page are from Historical Greystones archieve on Facebook.
