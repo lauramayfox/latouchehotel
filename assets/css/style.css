@@ -1,6 +1,5 @@
 /* Google fonts import */
-@import url(<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" 
-crossorigin><link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Playfair+Display:wght@400;600&display=swap" rel="stylesheet">);
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Playfair+Display:wght@400;600&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
@@ -14,7 +13,7 @@ body {
     display:flex;
     flex-direction: column;
     color: #3a3a3a
-    font: "playfair"
+    font: 'Nunito', sans-serif;
 }
 
 header {
@@ -22,6 +21,9 @@ header {
 
 }
 
+h1 {
+    font-family: 'Playfair', 'serif';
+}
 main {
     background-color: lightgoldenrodyellow;
     flex: 1 0 auto;
