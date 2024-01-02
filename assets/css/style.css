@@ -1,3 +1,7 @@
+/* Google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Poppins:wght@600&display=swap');
+
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
@@ -12,6 +16,7 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #3a3a3a;
+    font-family: 'Lato';
 }
 
 
@@ -20,6 +25,9 @@ header {
     background-color: gray;
 }
 
+h1 {
+    font-family: "Poppins"
+}
 /* Main content */
 main {
     background-color: lightgoldenrodyellow;
