@@ -40,6 +40,14 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+
+#menu {
+    font-size: 90%;
+    letter-spacing: 3px;
+    list-style-type: none;
+}
+
+
 /* Main content */
 main {
     background-color: lightgoldenrodyellow;
