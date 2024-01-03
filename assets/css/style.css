@@ -47,6 +47,23 @@ h1 {
     list-style-type: none;
 }
 
+#menu > li {
+    margin-bottom: 1em;
+}
+
+
+/* nav bar style with toggle dropdown*/
+
+nav {
+    position:absolute;
+    background-color: gray;
+    width:100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+    
+}
 
 /* Main content */
 main {
