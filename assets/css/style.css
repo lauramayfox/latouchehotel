@@ -164,7 +164,7 @@ padding-left: 8px;
     width:40px;
 }
 
-/*media queries */
+/* MEDIA QUERIES */
 
 /*tablets & larger 768px and up*/
     @media screen and (min-width: 768px) {
@@ -198,6 +198,20 @@ padding-left: 8px;
                 }
                 
 }
+
+/* footer*/
+@media(max-width: 767px){
+    .footer-col{
+      width: 50%;
+      margin-bottom: 30px;
+  }
+  }
+  @media(max-width: 574px){
+    .footer-col{
+      width: 100%;
+  }
+  } 
+
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
