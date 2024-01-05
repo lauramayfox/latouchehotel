@@ -151,6 +151,19 @@ display:block;
 transition: all 0.3s ease;
 }
 
+.footer ul li a:hover{
+color:darkslategray;
+padding-left: 8px;
+}
+
+.footer-col .social-links a {
+    display:inline-block;
+    text-decoration: none;
+    color:lightgoldenrodyellow;
+    height:40px;
+    width:40px;
+}
+
 /*media queries */
 
 /*tablets & larger 768px and up*/
