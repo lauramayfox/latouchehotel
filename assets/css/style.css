@@ -93,7 +93,7 @@ h1 {
 
 /* Main Content */
 main {
-    
+    padding-top: 80px;
     flex: 1 0 auto;
     background-color: rgb(240, 240, 187);
 }
@@ -186,6 +186,8 @@ main {
 }
 
 /* Gallery  */
+
+
 
 
 /* Contact form */
