@@ -189,11 +189,10 @@ main {
 
 
 
-
 /* Contact form */
 
 input[type=text], select, textarea {
-    width: 50%; /* Full width */
+    width: 100%; /* Full width */
     padding: 12px; 
     border: 1px solid #ccc; /* Gray border */
     border-radius: 4px; /* Rounded borders */
@@ -224,7 +223,17 @@ input[type=text], select, textarea {
     padding: 40px;
   }
    
+#contact-art img {
+    max-width: 100%;
+    height: auto;
+    align-items: center;
 
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+      
+  }
 
 
 /* Footer */
@@ -356,4 +365,6 @@ padding-left: 8px;
     #menu a:hover {
         border-bottom: 1px solid rgb(250, 250, 210);}
     }
+
+    
    
