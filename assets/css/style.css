@@ -58,7 +58,7 @@ h1 {
 
 .hero {
     /*size*/
-    width: 97vw;
+    width: 98.9vw;
     height:100vh;
     
     display:flex;
@@ -67,7 +67,12 @@ h1 {
     text-align:center;
 
     /*background style*/
-    
+    background-image: url("../images/latoucheh.jpeg");
+    background-size: cover;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+
 }
 
 /* nav bar style with toggle dropdown*/
