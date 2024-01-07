@@ -193,7 +193,7 @@ main {
 /* Contact form */
 
 input[type=text], select, textarea {
-    width: 100%; /* Full width */
+    width: 50%; /* Full width */
     padding: 12px; 
     border: 1px solid #ccc; /* Gray border */
     border-radius: 4px; /* Rounded borders */
