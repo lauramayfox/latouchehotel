@@ -86,6 +86,43 @@ h1 {
 
 }
 
+.hero h1 {
+    font-size: 5em;
+}
+
+/* Main Content */
+main {
+    flex: 1 0 auto;
+    background-color: rgb(240, 240, 187);
+}
+
+main h2 {
+    font-size: 18px;
+    text-transform: capitalize;
+    font-weight:500;
+    font-family: 'Poppins';
+    position:relative;
+    color: rgb(79, 77, 77);
+}
+
+section  {
+    height: 100vh;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 20px;
+    
+}
+
+#past-circle {
+    background: url('../images/IMG_0536.JPG') no-repeat top center / cover;
+}
+
+
+
+
 /* nav bar style with toggle dropdown*/
 
 nav {
