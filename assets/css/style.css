@@ -187,6 +187,40 @@ main {
 
 /* Gallery  */
 
+
+/* Contact form */
+
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; 
+    margin-top: 6px; /* top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* submit buttom */
+  input[type=submit] {
+    background-color: rgb(240, 240, 187);
+    color: black;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* mouse hover */
+  input[type=submit]:hover {
+    background-color: #e0dc70;
+  }
+  
+  /* form style */
+  .container {
+    border-radius: 5px;
+    padding: 40px;
+  }
    
 
 
