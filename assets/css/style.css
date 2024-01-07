@@ -208,19 +208,15 @@ main {
 
 /* Gallery  */
 
-.img-gallery {
+.img-gallery img {
     
-margin: 10px 50px;
-width: 100%;
-padding: 5px;
-transition: 1s;
-display: block;
-line-height: 1em;
-grid-template-columns: repeat(3, 1fr);
-grid-gap: 1rem;
+    width: 100%;
+    line-height: 1em;
+}
 
 
-
+.img-gallery {
+    line-height: 0;
 }
 .img-gallery img:hover {
     transform: scale(1.1);
