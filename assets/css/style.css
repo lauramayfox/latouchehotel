@@ -62,6 +62,7 @@ h1 {
     height:100vh;
     
     
+    
     display:flex;
     justify-content:center;
     align-items:center;
@@ -96,6 +97,7 @@ main {
     padding-top: 80px;
     flex: 1 0 auto;
     background-color: rgb(240, 240, 187);
+    
 }
 
 main h2 {
@@ -109,8 +111,8 @@ main h2 {
 
 section  {
     padding: 0 1rem;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
     height: 100vh;
     border: 1px solid rgb(79, 77, 77);
     display: flex;
@@ -119,7 +121,11 @@ section  {
     text-align: center;
     padding: 0 20px;
     
+    
 }
+
+
+
 
 #past-circle {
     background: url('../images/IMG_0536.JPG') no-repeat top center / cover;
@@ -133,10 +139,25 @@ section  {
     align-items: center;
     display:block;
     margin:auto;
+    
 }
 
 #present-circle {
     background: url('../images/modernlatouche.webp') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* Makes the square image into a circle */
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+    align-items: center;
+    display:block;
+    margin:auto;
+}
+
+#michael-circle {
+    background: url('../images/michaelkitty.webp') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
