@@ -54,6 +54,21 @@ h1 {
     margin-bottom: 1em;
 }
 
+/* Hero Image */
+
+.hero {
+    /*size*/
+    width: 97vw;
+    height:100vh;
+    
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+
+    /*background style*/
+    
+}
 
 /* nav bar style with toggle dropdown*/
 
