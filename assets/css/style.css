@@ -61,6 +61,7 @@ h1 {
     width: 98.9vw;
     height:100vh;
     
+    
     display:flex;
     justify-content:center;
     align-items:center;
@@ -92,6 +93,7 @@ h1 {
 
 /* Main Content */
 main {
+    
     flex: 1 0 auto;
     background-color: rgb(240, 240, 187);
 }
@@ -106,6 +108,9 @@ main h2 {
 }
 
 section  {
+    padding: 0 1rem;
+    padding-left: 5%;
+    padding-right: 5%;
     height: 100vh;
     border: 1px solid rgb(79, 77, 77);
     display: flex;
@@ -176,7 +181,7 @@ main {
     background-color: lightgoldenrodyellow;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 47px;
+    
     
 }
 
@@ -283,9 +288,7 @@ padding-left: 8px;
                     line-height:75px;
                     margin: 0 0.5rem;
                 }
-                main {
-                    margin-top: 79px;
-                }
+                
                 
 }
 
