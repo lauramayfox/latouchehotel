@@ -207,6 +207,10 @@ nav {
     font-size: 2rem;
  }
 
+ .nav-toggle-label {
+    color:rgb(239, 206, 161);
+ }
+
 /* Main content */
 main {
     background-color: lightgoldenrodyellow;
@@ -242,7 +246,7 @@ main {
 input[type=text], select, textarea {
     width: 100%; /* Full width */
     padding: 12px; 
-    border: 2px solid rgb(239, 206, 161);
+    border: 2.5px solid rgb(239, 206, 161);
     border-radius: 4px; /* Rounded borders */
     box-sizing: border-box; 
     margin-top: 6px; /* top margin */
