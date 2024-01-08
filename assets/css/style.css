@@ -59,8 +59,7 @@ h1 {
 
 .hero {
     /*size*/
-    width: 100vw;
-    height:100vh;
+    background-size: contain;
     
     
     
@@ -231,7 +230,10 @@ main {
 
 #photos {
     line-height: 0;
+    width: 100vw;
 }
+
+
 .img-gallery img:hover {
     transform: scale(1.1);
 }
