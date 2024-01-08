@@ -94,7 +94,7 @@ h1 {
 
 /* Main Content */
 main {
-    padding-top: 80px;
+    /*PADDING PROBLEM TO FIX*/
     flex: 1 0 auto;
     background-color: rgb(240, 240, 187);
     
@@ -126,6 +126,11 @@ section  {
 
 #fact {
     background-color: rgb(239, 206, 161);
+}
+
+#past {
+    height: 150vh;
+    
 }
 
 
@@ -392,6 +397,12 @@ padding-left: 8px;
                     margin: 0 0.5rem;
                 }
                 
+                /* index section */
+
+                #past {
+                    height: 100vh;
+                    
+                }
                  
                 
                 /* Gallery */
@@ -424,6 +435,11 @@ padding-left: 8px;
         /* Gallery */
         #photos {
             column-count: 4;
+    }
+
+    #past {
+        height: 100vh;
+        
     }
     }
 
