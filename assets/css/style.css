@@ -59,7 +59,8 @@ h1 {
 
 .hero {
     /*size*/
-    background-size: contain;
+    
+    max-width: 100%;
     
     
     
