@@ -48,6 +48,7 @@ h1 {
     font-size: 90%;
     letter-spacing: 3px;
     list-style-type: none;
+    
 }
 
 #menu > li {
@@ -241,7 +242,7 @@ main {
 input[type=text], select, textarea {
     width: 100%; /* Full width */
     padding: 12px; 
-    border: 1px solid #ccc; /* Gray border */
+    border: 2px solid rgb(239, 206, 161);
     border-radius: 4px; /* Rounded borders */
     box-sizing: border-box; 
     margin-top: 6px; /* top margin */
@@ -251,7 +252,8 @@ input[type=text], select, textarea {
   
   /* submit buttom */
   input[type=submit] {
-    background-color: rgb(240, 240, 187);
+    background-color: rgb(239, 206, 161);
+    padding-left: 8px;;
     color: black;
     padding: 12px 20px;
     border: none;
@@ -268,6 +270,7 @@ input[type=text], select, textarea {
   .container {
     border-radius: 5px;
     padding: 40px;
+    
   }
    
 #contact-art img {
@@ -346,16 +349,21 @@ transition: all 0.3s ease;
 }
 
 .footer ul li a:hover{
-color:darkslategray;
+color:rgb(239, 206, 161);
 padding-left: 8px;
 }
 
 .footer-col .social-links a {
     display:inline-block;
     text-decoration: none;
-    color:lightgoldenrodyellow;
+    color:rgb(239, 206, 161);
+    padding-left: 8px;
     height:40px;
     width:40px;
+}
+
+.footer-col .social-links a:hover {
+color: lightgoldenrodyellow;
 }
 
 /* MEDIA QUERIES */
