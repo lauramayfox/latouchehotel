@@ -84,7 +84,7 @@ h1 {
 
      /* Background styles */
      background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), 
-     url("../images/latoucheh.jpeg");
+     url("../images/latouche11");
      background-size: cover;
      background-position: center center;
      background-repeat: no-repeat;
@@ -146,7 +146,7 @@ section  {
 
 
 #past-circle {
-    background: url('../images/IMG_0536.JPG') no-repeat top center / cover;
+    background: url('../images/latouche9') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
@@ -161,7 +161,7 @@ section  {
 }
 
 #present-circle {
-    background: url('../images/modernlatouche.webp') no-repeat top center / cover;
+    background: url('../images/latouche10') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
@@ -175,7 +175,7 @@ section  {
 }
 
 #michael-circle {
-    background: url('../images/michaelkitty.webp') no-repeat top center / cover;
+    background: url('../images/michaelfact') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;

@@ -1,4 +1,4 @@
-<h1 align="center"><img src="/assets/images/latouchelogo.jpg"/></h1>
+<h1 align="center"><img src="/assets/images/latouchelogo"/></h1>
 
 # La Touche History
 
@@ -8,7 +8,7 @@ clear oversite on the history, with a user-friendly experience guiding the reade
 through the various pages and leave them with a lasting impression with a thorough
 knowledge of this old Greystones landmark.
 
-<h1 align="center"><img src="/assets/images/mockup1.jpg"/></h1>
+<h1 align="center"><img src="/assets/images/mockup"/></h1>
 
 # Features
 
