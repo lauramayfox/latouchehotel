@@ -126,12 +126,11 @@ section  {
 
 #fact {
     background-color: rgb(239, 206, 161);
+    
+   
 }
 
-#past {
-    height: 150vh;
-    
-}
+
 
 
 
@@ -374,6 +373,18 @@ padding-left: 8px;
 color: lightgoldenrodyellow;
 }
 
+#copyright {
+font-size:16px;
+text-transform:capitalize;
+color:lightgoldenrodyellow;
+text-decoration:none;
+font-weight:300;
+display:block;
+text-align: center;
+
+
+}
+
 /* MEDIA QUERIES */
 
 
@@ -384,6 +395,22 @@ color: lightgoldenrodyellow;
         column-gap: 0;
     }
 }
+                /* index section */
+
+
+                #past {
+                    height: 150vh;
+                    
+                }
+                
+                #present {
+                    height: 120vh;
+                    
+                }
+
+                #fact {
+                    height: 120vh;
+                }
 
 /*tablets & larger 768px and up*/
     @media screen and (min-width: 768px) {
@@ -411,13 +438,6 @@ color: lightgoldenrodyellow;
                     font-size:280%;
                     line-height:75px;
                     margin: 0 0.5rem;
-                }
-                
-                /* index section */
-
-                #past {
-                    height: 100vh;
-                    
                 }
                  
                 
