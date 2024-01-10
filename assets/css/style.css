@@ -95,7 +95,6 @@ h1 {
 
 /* Main Content */
 main {
-    /*PADDING PROBLEM TO FIX*/
     flex: 1 0 auto;
     background-color: rgb(240, 240, 187);
     
