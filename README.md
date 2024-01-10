@@ -43,13 +43,19 @@ The contact page consits of an illustration of the hotel circa early to mid 2000
 Validator Testing
 
 HTML:
+No errors found
 
 CSS:
-No Errors found
+No errors found
 
 Unfixed Bugs:
 Unresolved bug - hero image working fine on dev tools when inspecting smaller screen sizes, 
 not loading properly on an actual phone screen.
+
+Lighthouse report:
+Score 99
+<h1 align="center"><img src="/assets/images/lighthouse"/></h1>
+
 
 # Deployment
 
@@ -75,12 +81,10 @@ Gallery: StudyReadEducate (YouTube) for the hover effect across the gallery item
 
 
 Media:
-The photos used on the home and sign up page are from This Open Source site
-The images used for the gallery page were taken from this other open source site
 
-Photos: Historical Greystones archieve on Facebook
+Gallery Photos & Hero Image: Historical Greystones archieve on Facebook
 
 Favicon Icon by Prashanth Rapolu 15 (freepiks.com)
 Footer Icons: Font Awesome
 
-Illustrations: logo & Contact page: Own content
+Illustrations: logo & contact page: Own content
