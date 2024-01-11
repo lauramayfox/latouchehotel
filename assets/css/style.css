@@ -228,24 +228,37 @@ main {
     
 }
 
-/* Gallery  */
+/*Gallery */
 
-.img-gallery img {
+.full-gallery {
+    padding:40px;
+    padding-top: 120px;
+    background-color: lightgoldenrodyellow;
     
-    width: 100%;
-    line-height: 1em;
 }
 
 
-#photos {
-    line-height: 0;
-    width: 100vw;
-}
-
-
-.img-gallery img:hover {
-    transform: scale(1.1);
-}
+div.gallery {
+    
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width:100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
 
 
 
@@ -457,12 +470,18 @@ padding-top: 30px;
                 }
                  
                 
-                /* Gallery */
-                 #photos {
-                    column-count: 3;
+                /*gallery*/
+
+        .full-gallery {
+            column-count: 3;
+            
+            
+        }
+
+        
     }
                 
-}
+
 
 
 
