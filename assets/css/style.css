@@ -265,6 +265,7 @@ input[type=text], [type=email], select, textarea {
     resize: vertical
   }
 
+
   
   
   /* submit buttom */
@@ -288,7 +289,10 @@ input[type=text], [type=email], select, textarea {
     border-radius: 5px;
     padding: 40px;
     
+    
   }
+
+  
    
 #contact-art img {
     max-width: 100%;
@@ -490,6 +494,6 @@ padding-top: 30px;
         
     }
     }
-
+   
     
    
