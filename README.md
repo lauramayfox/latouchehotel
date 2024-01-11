@@ -1,4 +1,4 @@
-<h1 align="center"><img src="/assets/images/latouchelogo"/></h1>
+<h1 align="center"><img src="/assets/images/latouchelogo.jpg"/></h1>
 
 # La Touche History
 
@@ -8,7 +8,7 @@ clear oversite on the history, with a user-friendly experience guiding the reade
 through the various pages and leave them with a lasting impression with a thorough
 knowledge of this old Greystones landmark.
 
-<h1 align="center"><img src="/assets/images/mockup"/></h1>
+<h1 align="center"><img src="/assets/images/mockup.jpg"/></h1>
 
 # Features
 
@@ -54,7 +54,7 @@ not loading properly on an actual phone screen.
 
 Lighthouse report:
 Score 99
-<h1 align="center"><img src="/assets/images/lighthouse"/></h1>
+<h1 align="center"><img src="/assets/images/lighthouse.jpg"/></h1>
 
 
 # Deployment
