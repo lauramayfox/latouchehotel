@@ -4,7 +4,7 @@
 
 This project is intended for those who wish to look back on the history of the
 La Touche Hotel, Greystones, Co. Wicklow, prior to it's closure in 2004. 
-I hope to provide a clear oversite on the history, with a user-friendly experience 
+I hope to provide a clear oversight on the history, with a user-friendly experience 
 guiding the reader through the various pages and leave them with a lasting impression 
 with a thorough knowledge of this old Greystones landmark.
 
