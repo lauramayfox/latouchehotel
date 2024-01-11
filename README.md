@@ -3,10 +3,10 @@
 # La Touche History
 
 This project is intended for those who wish to look back on the history of the
-La Touche Hotel, Greystones, Co. Wicklow, prior to it's closure. I hope to provide a
-clear oversite on the history, with a user-friendly experience guiding the reader
-through the various pages and leave them with a lasting impression with a thorough
-knowledge of this old Greystones landmark.
+La Touche Hotel, Greystones, Co. Wicklow, prior to it's closure in 2004. 
+I hope to provide a clear oversite on the history, with a user-friendly experience 
+guiding the reader through the various pages and leave them with a lasting impression 
+with a thorough knowledge of this old Greystones landmark.
 
 <h1 align="center"><img src="/assets/images/mockup.jpg"/></h1>
 
@@ -14,28 +14,36 @@ knowledge of this old Greystones landmark.
 
 Navigation Bar
 
-Title placement along with a responsive banner style adapted from larger screens to smaller screen drop down menu.
+A feature on all 3 pages, fully responsive with links to the home page, gallery and contact sections. 
+Designed with the user experience in mind for a clear link to each aspect of the site without any confusion.
 
 
 Landing Page
 
-Hero Image - drawing attention and used for high landing page impact. Created using a fixed banner method.
+The landing page hero image has been positioned for high impact made with a fixed banner effect, a transition and text overlay.
 
-Sections with photos - Three main sections containing historical facts and accompanied by photos.
+Home page text section
+
+Three sections have been created to show the past, present and facts to the reader. Each section is layed out clearly with bright pops
+of colour and imagery.
 
 
 Footer 
-The footer consists of four columns that within them also have responsive click-through features.
+
+The footer features four colums with responsive click-through features upon hover and click. Links to the social media are 
+also included.
 
 
 Gallery
 
-The gallery consits of a full page taken up by various photos of the historical site at different stages throughout the years.
+The Gallery provides the reader with interesting historical imagery of the interior, as well as the many different exteriors of the La
+Touche Hotel. Each image has it's own caption, and a click through to extend the image on larger screens.
 
 
 Contact
 
-The contact page consits of an illustration of the hotel circa early to mid 2000's which I did for a graphic design project last year. The contact form is situated directly below.
+The contact page consits of an illustration of the hotel facade, with the contact input details positioned below. This section allows
+the reader to interact and make contact with the site's organisers with any questions, comments or feedback.
 
 
 # Testing
@@ -73,18 +81,18 @@ Header: Love Running project walk-through to assist with the initial build
 
 Footer: The Web Shala (YouTube) walk through video on how to contruct a responsive footer
 
-Contact section: W3Schools walk through form building
+Contact section: Adaption of W3Schools walk through form building tutorial
 
 Hero image section: banner walk-through by Career & Tech HQ (YouTube)
 
-Gallery: StudyReadEducate (YouTube) for the hover effect across the gallery items
+Gallery: Layout tutorial from W3Schools responsive image gallery tutorial
 
 
 Media:
 
-Gallery Photos & Hero Image: Historical Greystones archieve on Facebook
+Gallery Photos & Hero Image: Historical Greystones archieve on Facebook, Greystones Guide
 
 Favicon Icon by Prashanth Rapolu 15 (freepiks.com)
 Footer Icons: Font Awesome
 
-Illustrations: logo & contact page: Own content
+Illustrations: Own graphic design content
