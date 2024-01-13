@@ -175,23 +175,23 @@
 /*Gallery */
  .full-gallery {
      padding:40px;
-     padding-top: 120px;
+     padding-top: 80px;
      background-color: lightgoldenrodyellow;
 }
  div.gallery {
-     margin: 5px;
-     border: 1px solid #ccc;
-     float: left;
+    margin-bottom: 20px;
+     border: 2.5px solid rgb(239, 206, 161);
+     
 }
- div.gallery:hover {
-     border: 1px solid #777;
-}
+
+
  div.gallery img {
      width:100%;
      height: auto;
+     
 }
  div.desc {
-     padding: 15px;
+     padding: 10px;
      text-align: center;
 }
 /* Contact form */
@@ -359,6 +359,10 @@
      .full-gallery {
          column-count: 3;
     }
+     /*Gallery */
+ .full-gallery {
+    padding-top: 120px;
+}
 }
 /* footer*/
  @media(max-width: 767px){
@@ -370,6 +374,7 @@
  @media(max-width: 574px){
      .footer-col{
          width: 100%;
+        
     }
 }
 /* Large devices (laptops and desktops, 992px and up) */
@@ -384,5 +389,9 @@
      #past {
          height: 100vh;
     }
+
+    /*Gallery */
+ .full-gallery {
+    padding-top: 120px;
 }
  
