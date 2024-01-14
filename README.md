@@ -44,16 +44,30 @@ I chose the signature shades from colour selection through one of the old photos
 Wireframes
 
 In the planning stages, I had the idea that I wanted to use the hotel facade as the colour scheme, and once visualised, 
-I took the idea into <a href="https://balsamiq.com/wireframes" target="_blank">Balsamiq Wireframes</a>
+I took the idea into <a href="https://balsamiq.com/wireframes" target="_blank">Balsamiq Wireframes.</a>
+
+My initial idea was very simply put together to try get a starting point for the project. Here is an image of the inital idea:
 
 <h1 align="center"><img src="/assets/images/wireframe.jpg"/></h1>
+
+Research
+
+I conducted online research into the hotel via archive groups on Facebook, as well as local press sites. I found several
+article pieces and lots of old historical imagery to help me piece together my ideas for what the site could become.
 
 # Features
 
 Navigation Bar
 
-A feature on all 3 pages, fully responsive with links to the home page, gallery and contact sections. 
-Designed with the user experience in mind for a clear link to each aspect of the site without any confusion.
+<ul>
+<li>The navigation bar is featured on all 3 pages, fully responsive with links to the home page, gallery and contact sections.</li>
+<li>It is designed with the user experience in mind for a clear link to each aspect of the site without any confusion.</li>
+<li>Featured is the logo for the site "La Touche History", which can be clicked from any page to take you back to the landing homepage screen.</li>
+</ul>
+<h1 align="center"><img src="/assets/images/nav1.jpg"/></h1>
+<li>The smaller screen size contains a hamburger icon, which when clicked, displays a drop down menu.
+<h1 align="center"><img src="/assets/images/nav2.jpg"/></h1>
+</ul>
 
 
 Landing Page
