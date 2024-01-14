@@ -82,21 +82,27 @@ of colour reflecting the facade of the hotel along with imagery for each section
 
 Here you can see the responsive design working in the homepage section on smaller screen size. The section width becomes less, as more text takes up the screen width.
 
-<h1 align="left"><img src="/assets/images/responsive.jpg"/></h1>
+<h1 align="center"><img src="/assets/images/responsive.jpg"/></h1>
 
 
 
 
 Footer 
 
-The footer features four colums with responsive click-through features upon hover and click. Links to the social media are 
-also included.
+The footer features four colums with responsive click-through features upon hover and click. Each clicked link will take you directly to the next part of the site, and all external links will automatically open in a new browser tab to maintain and encourage site users to remain on the main website itself.
+Links to the social media are included via their well known logos embedded on the footer, which contain a colour change feature upon hover on desktops and laptop screens.
+
+<h1 align="center"><img src="/assets/images/footer.jpg"/></h1>
+
 
 
 Gallery
 
 The Gallery provides the reader with interesting historical imagery of the interior, as well as the many different exteriors of the La
-Touche Hotel. Each image has it's own caption, and a click through to extend the image on larger screens.
+Touche Hotel. Each image has it's own caption, within an orange border in keeping with the colour scheme, and a click through to extend the image on larger screens.
+
+<h1 align="center"><img src="/assets/images/gallery.jpg"/></h1>
+
 
 
 Contact
