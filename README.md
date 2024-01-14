@@ -20,13 +20,33 @@ Target Audience
 </ul>
 
 Web Owner Goals
+<ul>
+<li>Appeal to the interest of the target audience</li>
+<li>Create excitment through the website via facts and visual aids</li>
+<li>Create a sense of community, and encourage site visitors to open dialogue through the contact section</li>
+<li>Create an inclusive site, one that is user-friendly with navigation, and for those who are visually impaired</li>
+</ul>
 
 
 
-Features To Achieve These Goals
+# Features
+
+Design Elements
+
+The colour scheme was chosen to reflect the facade of the hotel from the early 2000s, which is how myself, and others who
+live locally will best recount the landmark. 
+
+I chose the signature shades from colour selection through one of the old photos of the front of the hotel.
+
+<h1 align="center"><img src="/assets/images/colour.jpg"/></h1>
 
 
-Design Aspects
+Wireframes
+
+In the planning stages, I had the idea that I wanted to use the hotel facade as the colour scheme, and once visualised, 
+I took the idea into <a href="https://balsamiq.com/wireframes" target="_blank">Balsamiq Wireframes</a>
+
+<h1 align="center"><img src="/assets/images/wireframe.jpg"/></h1>
 
 # Features
 
