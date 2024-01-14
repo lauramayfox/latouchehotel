@@ -64,7 +64,7 @@ Navigation Bar
 <li>It is designed with the user experience in mind for a clear link to each aspect of the site without any confusion.</li>
 <li>Featured is the logo for the site "La Touche History", which can be clicked from any page to take you back to the landing homepage screen.</li>
 </ul>
-<h1 align="center"><img src="/assets/images/nav1.jpg"/></h1>
+<h1 align="left"><img src="/assets/images/nav1.jpg"/></h1>
 <li>The smaller screen size contains a hamburger icon, which when clicked, displays a drop down menu.
 <h1 align="center"><img src="/assets/images/nav2.jpg"/></h1>
 </ul>
