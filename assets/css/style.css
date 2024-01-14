@@ -90,6 +90,7 @@
      position:relative;
      color: rgb(79, 77, 77);
 }
+/* index section */
  section {
      padding: 0 1rem;
      padding-left: 20%;
@@ -103,6 +104,13 @@
 }
  #fact {
      background-color: rgb(239, 206, 161);
+     height: 120vh;
+}
+#past {
+    height: 150vh;
+}
+#present {
+    height: 120vh;
 }
  #past-circle {
      background: url('../images/latouche9.jpg') no-repeat top center / cover;
@@ -320,16 +328,16 @@
          column-count: 2;
          column-gap: 0;
     }
-}
-/* index section */
+    /* index section */
  #past {
-     height: 150vh;
+    height: 80vh;
 }
- #present {
-     height: 120vh;
+#present {
+    height: 80vh;
 }
- #fact {
-     height: 120vh;
+#fact {
+    height: 80vh;
+}
 }
 /*tablets & larger 768px and up*/
  @media screen and (min-width: 768px) {
@@ -363,6 +371,16 @@
  .full-gallery {
     padding-top: 120px;
 }
+/* index section */
+#past {
+    height: 80vh;
+}
+#present {
+    height: 80vh;
+}
+#fact {
+    height: 80vh;
+}
 }
 /* footer*/
  @media(max-width: 767px){
@@ -376,6 +394,7 @@
          width: 100%;
         
     }
+
 }
 /* Large devices (laptops and desktops, 992px and up) */
  @media screen and (min-width: 992px) {
@@ -386,9 +405,19 @@
      #photos {
          column-count: 4;
     }
+
+    /*index section */
+
      #past {
          height: 100vh;
     }
+
+    #fact {
+        height: 100vh;
+   }
+   #present {
+    height: 100vh;
+}
 
     /*Gallery */
  .full-gallery {
