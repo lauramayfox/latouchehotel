@@ -15,8 +15,8 @@ with a lasting impression of this old Greystones landmark.
 
 Target Audience
 <ul>
-Those who are local to the area interested in the history of their town's landmark
-Those who are visiting the area and wish to recount the history of the area
+<li>Those who are local to the area interested in the history of their town's landmark</li>
+<li>Those who are visiting the area and wish to recount the history of the area</li>
 </ul>
 
 Web Owner Goals
