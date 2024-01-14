@@ -180,6 +180,7 @@
     /* Make main element take up any surplus space to push footer down */
      flex: 1 0 auto;
 }
+/* W3Schools responsive image gallery tutorial coding*/
 /*Gallery */
  .full-gallery {
      padding:40px;
@@ -191,12 +192,9 @@
      border: 2.5px solid rgb(239, 206, 161);
      
 }
-
-
- div.gallery img {
+div.gallery img {
      width:100%;
-     height: auto;
-     
+     height: auto;     
 }
  div.desc {
      padding: 10px;
