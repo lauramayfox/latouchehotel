@@ -58,7 +58,7 @@ article pieces and lots of old historical imagery to help me piece together my i
 # Features
 
 Navigation Bar
-
+<h1 align="center"><img src="/assets/images/nav2.jpg"/></h1>
 <ul>
 <li>The navigation bar is featured on all 3 pages, fully responsive with links to the home page, gallery and contact sections.</li>
 <li>It is designed with the user experience in mind for a clear link to each aspect of the site without any confusion.</li>
@@ -66,18 +66,25 @@ Navigation Bar
 </ul>
 <h1 align="left"><img src="/assets/images/nav1.jpg"/></h1>
 <li>The smaller screen size contains a hamburger icon, which when clicked, displays a drop down menu.
-<h1 align="center"><img src="/assets/images/nav2.jpg"/></h1>
 </ul>
 
 
 Landing Page
 
-The landing page hero image has been positioned for high impact made with a fixed banner effect, a transition and text overlay.
+The landing page hero image has been positioned for high impact made with a fixed banner effect, a transition and text overlay with the year that the hotel was established.
+<h1 align="left"><img src="/assets/images/heroimg.jpg"/></h1>
 
 Home page text section
 
 Three sections have been created to show the past, present and facts to the reader. Each section is layed out clearly with bright pops
-of colour and imagery.
+of colour reflecting the facade of the hotel along with imagery for each section to engage the viewer.
+<h1 align="left"><img src="/assets/images/section.jpg"/></h1>
+
+Here you can see the responsive design working in the homepage section on smaller screen size. The section width becomes less, as more text takes up the screen width.
+
+<h1 align="left"><img src="/assets/images/responsive.jpg"/></h1>
+
+
 
 
 Footer 
