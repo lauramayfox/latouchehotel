@@ -177,13 +177,13 @@ The live link can be found here - https://lauramayfox.github.io/latouchehotel/
 
 Content
 
-The article text for the Home page was taken from: https://www.independent.ie/regionals/wicklow/bray-news/old-hotel-is-transformed/39730580.html 
+The article text for the Home page was taken from: <a href="https://www.independent.ie/regionals/wicklow/bray-news/old-hotel-is-transformed/39730580.html" target="_blank">The Irish Independent</a>
 
 Header: Love Running project walk-through to build the responsive header.
 
 Footer: The Web Shala (YouTube) walk through video on how to contruct a responsive footer
 
-Contact section: Adaption of W3Schools walk through form building tutorial.
+Contact section: Adaption of <a href="https://www.w3schools.com" target="_blank">W3Schools</a> walk through form building tutorial.
 
 Hero image section: Hero banner image walk-through by Career & Tech HQ (YouTube).
 
@@ -191,10 +191,10 @@ Gallery: Layout tutorial from W3Schools responsive image gallery tutorial
 
 
 Media:
-
-Gallery Photos & Hero Image: Historical Greystones archieve on Facebook, Greystones Guide.
-Fonts: https://fonts.google.com/
-Favicon: Prashanth Rapolu 15 (freepiks.com)
-Footer social media icons: Font Awesome
-
-Illustrations: Own content
+<ul>
+<li>Gallery Photos & Hero Image: Historical Greystones archieve on Facebook, Greystones Guide</li>
+<li>Fonts:<a href="https://fonts.google.com/" target="_blank">Google Fonts</a></li>
+<li>Favicon: Prashanth Rapolu <a href="https://freepiks.com" target="_blank">FreePiks</a></li>
+<li>Footer social media icons: <a href="https://fontawesome.com" target="_blank">Font Awesome</a></li>
+<li>Illustrations: Own content</li>
+</ul>
