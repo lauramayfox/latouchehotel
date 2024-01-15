@@ -107,19 +107,41 @@ Touche Hotel. Each image has it's own caption, within an orange border in keepin
 
 Contact
 
-The contact page consits of an illustration of the hotel facade, with the contact input details positioned below. This section allows
-the reader to interact and make contact with the site's organisers with any questions, comments or feedback.
+The contact page consits of an illustration of the hotel facade, with the contact input details positioned below. The illustration was apart of a graphic design project I did in 2023.
 
+<h1 align="center"><img src="/assets/images/contact.jpg"/></h1>
+
+Below the illustration image of the hotel, there is a contact section where the reader is invited to get in touch with any feedbacks, news submissions or general questions in relation to the history of the hotel.
+
+Each text field has a requirement for input before submission.
+
+<h1 align="center"><img src="/assets/images/contact2.jpg"/></h1>
+
+# Features Left To Implement
+
+<ul>
+<li>In the future I would like to split the gallery into another page where reader's own submissions can be posted and keep a separate archive gallery for the older pictures that can be found online.</li>
+<li>Another page idea would be to create an entire timeline, with dates, facts and pictures throughout the years.</li>
+<li>A FAQ section to answer the questions that are likely going to be asked through the contact form</li>
+<li>An online store which will feature merchandise and art relating to the old hotel, potentially in collaboration with local artists.</li>
+</ul>
 
 # Testing
 
+<ul>
+<li>The site has been tested on Chrome, Safari & Firefox</li>
+<li>Testing has been implemented on various screen sizes to ensure responsivness across devices. Ipad, Galaxy and laptop testing has been implemented and passed.</li>
+<li>Social media links, footer links and other page links as well as contact form validation have all been tested and passed. </li>
+</ul>
 Validator Testing
 
 HTML:
 No errors found
+<h1 align="left"><img src="/assets/images/htmlvalidation.jpg"/></h1>
 
 CSS:
 No errors found
+<h1 align="left"><img src="/assets/images/cssvalidation.jpg"/></h1>
 
 Unfixed Bugs:
 Unresolved bug - hero image working fine on dev tools when inspecting smaller screen sizes, 
