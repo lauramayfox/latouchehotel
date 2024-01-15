@@ -143,43 +143,58 @@ CSS:
 No errors found
 <h1 align="left"><img src="/assets/images/cssvalidation.jpg"/></h1>
 
-Unfixed Bugs:
-Unresolved bug - hero image working fine on dev tools when inspecting smaller screen sizes, 
-not loading properly on an actual phone screen.
 
 Lighthouse report:
-Score 99
+
+I'm overall generally happy with the lighthouse report. The score of 99 when looking at the diagnostics seems to be related to some of the imagery file size.
+
 <h1 align="center"><img src="/assets/images/lighthouse.jpg"/></h1>
+<h1 align="center"><img src="/assets/images/lighthouse2.jpg"/></h1>
+
+# Bugs/Errors
+<ul>
+<li>I fixed some intitial bugs relating to hierarchy on the homepage. The hero image text was warning me not to use H1, as the header already contained an H1 element. Same issue on the footer with hierarchy and headers. Both issues resolved.</li>
+
+<li>The CSS had some bug fixes relating to extra brackets which was fixed.</li>
+
+Unfixed Bugs
+
+<li>Unresolved bug - hero image working fine on dev tools when inspecting smaller screen sizes, 
+not loading properly on an actual phone screen.</li>
+</ul>
+
 
 
 # Deployment
 
 The site was deployed to GitHub pages.
 The live link can be found here - https://lauramayfox.github.io/latouchehotel/ 
+<h1 align="left"><img src="/assets/images/githubdeployed.jpg"/></h1>
 
 
 
 # Credits 
+
 Content
 
-The text for the Home page was taken from: https://www.independent.ie/regionals/wicklow/bray-news/old-hotel-is-transformed/39730580.html 
+The article text for the Home page was taken from: https://www.independent.ie/regionals/wicklow/bray-news/old-hotel-is-transformed/39730580.html 
 
-Header: Love Running project walk-through to assist with the initial build
+Header: Love Running project walk-through to build the responsive header.
 
 Footer: The Web Shala (YouTube) walk through video on how to contruct a responsive footer
 
-Contact section: Adaption of W3Schools walk through form building tutorial
+Contact section: Adaption of W3Schools walk through form building tutorial.
 
-Hero image section: banner walk-through by Career & Tech HQ (YouTube)
+Hero image section: Hero banner image walk-through by Career & Tech HQ (YouTube).
 
 Gallery: Layout tutorial from W3Schools responsive image gallery tutorial
 
 
 Media:
 
-Gallery Photos & Hero Image: Historical Greystones archieve on Facebook, Greystones Guide
+Gallery Photos & Hero Image: Historical Greystones archieve on Facebook, Greystones Guide.
+Fonts: https://fonts.google.com/
+Favicon: Prashanth Rapolu 15 (freepiks.com)
+Footer social media icons: Font Awesome
 
-Favicon Icon by Prashanth Rapolu 15 (freepiks.com)
-Footer Icons: Font Awesome
-
-Illustrations: Own graphic design content
+Illustrations: Own content
