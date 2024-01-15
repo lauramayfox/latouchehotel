@@ -193,8 +193,8 @@ Gallery: Layout tutorial from W3Schools responsive image gallery tutorial
 Media:
 <ul>
 <li>Gallery Photos & Hero Image: Historical Greystones archieve on Facebook, Greystones Guide</li>
-<li>Fonts:<a href="https://fonts.google.com/" target="_blank">Google Fonts</a></li>
-<li>Favicon: Prashanth Rapolu <a href="https://freepiks.com" target="_blank">FreePiks</a></li>
+<li>Fonts: <a href="https://fonts.google.com/" target="_blank">Google Fonts</a></li>
+<li>Favicon: Prashanth Rapolu on <a href="https://freepiks.com" target="_blank">FreePiks</a></li>
 <li>Footer social media icons: <a href="https://fontawesome.com" target="_blank">Font Awesome</a></li>
 <li>Illustrations: Own content</li>
 </ul>
