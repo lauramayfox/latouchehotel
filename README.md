@@ -2,8 +2,8 @@
 
 # La Touche History
 
-An exciting new archive website to document the past and present of a legendary Wicklow landmark,
-The La Touche Hotel in Co. Wicklow. This site formally known as The Grand Hotel, later to be
+An exciting new archive website to document the past and present of a legendary landmark,
+The La Touche Hotel in Greystones, Co. Wicklow. This site formally known as The Grand Hotel, later to be
 renamed The La Touche Hotel has been the center of Greystones history for decades. 
 I hope to provide a clear oversight on the history, with a user-friendly experience 
 guiding the reader through the various reading and visual learning sections and leave them 
@@ -111,7 +111,7 @@ The contact page consits of an illustration of the hotel facade, with the contac
 
 <h1 align="center"><img src="/assets/images/contact.jpg"/></h1>
 
-Below the illustration image of the hotel, there is a contact section where the reader is invited to get in touch with any feedbacks, news submissions or general questions in relation to the history of the hotel.
+Below the illustration image of the hotel, there is a contact section where the reader is invited to get in touch with any feedback, news, submissions or general questions in relation to the history of the hotel.
 
 Each text field has a requirement for input before submission.
 
